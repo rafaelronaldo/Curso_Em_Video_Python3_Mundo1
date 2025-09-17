@@ -10,7 +10,7 @@ O curso é ministrado pelo professor [Gustavo Guanabara](https://www.youtube.com
 
 Você pode me encontrar em:
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](github.com/rafaelronaldo)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafaelronaldo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-ronaldo/)
 
 ---
