@@ -13,3 +13,5 @@ print(frase.replace("Python", "Android"))
 """frase = (frase.replace("Python", "Android"))"""
 print("Curso" in frase)
 print(frase.find('Vídeo'))
+dividido = frase.split()
+print(dividido[2])
