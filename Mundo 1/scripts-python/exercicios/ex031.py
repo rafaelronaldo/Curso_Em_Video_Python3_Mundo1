@@ -4,4 +4,4 @@ if distancia_viagem <=200:
     preco = distancia_viagem * 0.50
 else:
     preco = distancia_viagem * 0.45
-print("E o preço da sua passagem será de R${:0.2f}".format(preco))
+print("E o preço da sua passagem será de \033[32mR${:0.2f}\033[m".format(preco))
