@@ -16,9 +16,21 @@ while numero != 0:
     numero = int(input("Digite um número: "))
 print("Fim")'''
 
-r = "S"
+'''r = "S"
 while r == "S":
     numero = int(input("Digite um número: "))
     r = str(input("Quer continuar? [S/N]")).upper()
-print("Fim")
+print("Fim")'''
+
+par = 0
+impar = 0
+numero = 1
+while numero != 0:
+    numero = int(input("Digite um número: "))
+    if numero != 0:
+        if numero % 2 == 0:
+            par += 1
+        else:
+            impar += 1
+print("Você digitou {} números pares e {} números impares!".format(par, impar))
 
